@@ -1,0 +1,13 @@
+{
+  "name": "nebula-unblocker",
+  "version": "1.0.0",
+  "description": "A sleek, minimal Ultraviolet Web Proxy Unblocker ready for Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@tomphttp/bare-server-node": "^2.6.0",
+    "express": "^4.19.2"
+  }
+}
